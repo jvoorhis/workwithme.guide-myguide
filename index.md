@@ -1,95 +1,82 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Jeremy Voorhis
+full_name: Jeremy Voorhis
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/abloomston/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
 # picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
-# categories: [profile]
+categories: [profile]
 ---
-
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
 
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+* Curiosity
+* Kindness
+* Growth
 
-## Personality
+## Work Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+* Creativity: I try to look at all alternatives when problem solving, and generate as many of my own as I can (within reason.)
+* Systems Thinking: how do the changes we make ripple through the system?
+* Risk Management: can we predict any negative outcomes for a given solution? Are the known risks acceptable? (No technology can be perfect.)
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
+I believe feedback should be given often, and freely. I find long periods with no feedback regarding my work to be anxiety inducing.
 
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+I often find it difficult to receive a compliment, but I appreciate any positive feedback nonetheless. I prefer to have difficult conversations in a 1:1 setting whenever possible. Regardless, I value honesty and direct communication.
 
 ## Work Patterns
 
-What hours do you usually work?
+I work remotely, typically from the hours of 9:00 AM until 5:30 PM Pacific Time, with a break for lunch at 12:00 PM. Sometimes, my family responsibilities require me to go AFK for short stretches of time.
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+I enjoy light travel for meetings, on-sites, conferences, etc., but have significantly reduced my travel due to the SARS-CoV-2 pandemic.
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
+I prefer asynchronous communication by default, as well as minimizing meetings and interruptions. Sometimes, I become hyperfocused and can lose track of time, but these sessions can also be highly productive, and I can follow up with non-urgent matters afterwards. If I don't respond right away, I may have found my flow.
 
+Slack, or other asynchronous chat is best. Email is where urgent requests go to die.
 
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+Being on camera, especially for prolonged time during the day, causes anxiety for me. I prefer voice chat to full video, but I do turn my camera on for social interactions with my team, and as a sign of respect in 1:1/small group discussions.
+
+I tend to hit my stride in the afternoon, so I typically use my mornings for catching up on communications, planning, etc.
+
+I try to maintain an up to date calendar for my colleagues, and appreciate when they do the same.
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+Often, I find it difficult to schedule time away from work, but this is a recipe for burnout. Accountability from my management or peers in this area is appreciated.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+Sometimes if I am excited about a topic, I may be prone to interrupting. Please don't interpret this as a sign of disrespect. Discrete feedback is always appreciated if I strike a nerve. I also may never get used to high latency on Zoom calls.
 
-## Me Being Me
-
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+Large group settings can be anxiety provoking, and I have a tendency to shut down. Efforts to help me reengage are appreciated.
 
 ## Pet Peeves
 
-_I don't expect this list to change your actions—but it might help you better understand and empathize with my
-reactions._
+_I don't expect this list to change your actions—but it might help you better understand and empathize with my reactions._
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+I am very sensitive to auditory and visual distractions. I am also very hypervigilant with respect to touch. If you cold call me, or tap me on the shoulder, especially when I am focused, you are likely to cause a jump scare. Please try one of the above methods of seeking my attention first.
 
 ## Career Goals & Future Interests
 
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+I have been advancing down the individual contributor career path, which has been rewarding. I value increased autonomy, authority, and responsibility as I gain more experience, but of course this tends to tip the balance from hands-on technical work towards communicating more often and with more teams and contributors.
+
+I'd like to continue to increase my skills in cloud systems administration and security operations/devsecops.
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+Occasionally, I find it difficult to start a new project. It's possible for me to become overwhelmed by analyzing the situation, or simply struggling with a bout of imposter syndrome. When I become aware that this is happening, I try to look for smaller, less overwhelming tasks, or simply take a break. I'm hoping to become more self-aware when this happens, and strengthen my coping skills.
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+I am an avid musician and voracious music listener. I am always down to talk about musicianship, artists and live music, or anything related.
+
+I also enjoy crime and science fiction. Tell me about your favorite novels and films.
